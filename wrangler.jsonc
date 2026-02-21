@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cms-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "cms-db",
+			"database_id": "3593c281-71e9-4399-b2bb-b2c9735105c4"
+		}
+	]
+}
